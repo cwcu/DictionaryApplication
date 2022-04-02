@@ -1,0 +1,6 @@
+semantic
+python
+granularity
+coalition
+canonical
+adverse
